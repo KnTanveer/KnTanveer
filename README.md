@@ -1,13 +1,8 @@
 ### Hi there, I'm Tanveer 👋
 
-**Current projects:**
+**Projects:**
 
 - [JavaScript mini projects](https://tanjsprojects.vercel.app/)
-  
-**Previously:**
-
-- html,css @ [youtube ui clone](https://tanyoutubeclone.vercel.app/)
-- html,css @ [stride shoes](https://strideshoes.vercel.app/)
 
 **Tech Stack:**
 
