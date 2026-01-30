@@ -2,7 +2,7 @@
 
 **Degree:**
 
-DYPU @ BCA
+_DYPU_ - BCA
 
 **Tech Stack:**
 
