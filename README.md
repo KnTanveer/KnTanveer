@@ -1,8 +1,8 @@
 ### Hi there, I'm Tanveer 👋
 
-**Projects:**
+**Degree:**
 
-- [JavaScript mini projects](https://tanjsprojects.vercel.app/)
+DYPU @ BCA
 
 **Tech Stack:**
 
