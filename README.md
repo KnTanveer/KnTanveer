@@ -11,5 +11,5 @@ _DYPU_ - BCA
 
 **Tools:**
 
-<img src="https://skillicons.dev/icons?i=vscode,neovim,vercel" height="40"/>
+<img src="https://skillicons.dev/icons?i=vscode,neovim,clion" height="40"/>
 <img src="https://skillicons.dev/icons?i=git,ps,obsidian" height="40"/>
