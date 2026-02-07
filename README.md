@@ -7,7 +7,7 @@ _DYPU_ - BCA
 **Tech Stack:**
 
 <img src="https://skillicons.dev/icons?i=py,cpp,js,html,css" height="40"/>
-<img src="https://skillicons.dev/icons?i=java,react,tailwind,electron" height="40"/>
+<img src="https://skillicons.dev/icons?i=java,react,tailwind,electron,mysql" height="40"/>
 
 **Tools:**
 
