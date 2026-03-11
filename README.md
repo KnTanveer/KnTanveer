@@ -6,7 +6,7 @@ _DYPU_ - BCA
 
 **Languages:**
 
-<img src="https://skillicons.dev/icons?i=py,js" height="40"/>
+<img src="https://skillicons.dev/icons?i=cpp,py,js" height="40"/>
 
 **Frameworks:**
 
