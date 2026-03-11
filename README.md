@@ -10,7 +10,7 @@ _DYPU_ - BCA
 
 **Frameworks:**
 
-<img src="https://skillicons.dev/icons?i=electron,tailwind,react,nodejs" height="40"/>
+<img src="https://skillicons.dev/icons?i=electron,tailwind,react,express" height="40"/>
 
 **Tools:**
 
