@@ -2,7 +2,7 @@
 
 **Current projects:**
 
-DSA
+- Learning DSA
 
 **Degree:**
 
