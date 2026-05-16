@@ -15,7 +15,3 @@ _DYPU_ - BCA
 **Frameworks:**
 
 <img src="https://skillicons.dev/icons?i=electron,tailwind,react,express" height="40"/>
-
-**Tools:**
-
-<img src="https://skillicons.dev/icons?i=vscode,neovim,git" height="40"/>
