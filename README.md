@@ -3,6 +3,7 @@
 **Current projects:**
 
 - Learning DSA
+- Personal website
 
 **Degree:**
 
