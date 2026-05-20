@@ -1,10 +1,5 @@
 ### Hi there, I'm Tanveer 👋
 
-**Current projects:**
-
-- Learning DSA
-- Personal website
-
 **Degree:**
 
 _DYPU_ - BCA
